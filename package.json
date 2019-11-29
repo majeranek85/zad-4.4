@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/majeranek85/zad-4.4/issues"
   },
-  "homepage": "https://github.com/majeranek85/zad-4.4#readme"
+  "homepage": "https://github.com/majeranek85/zad-4.4#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
 }
