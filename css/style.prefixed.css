@@ -1,0 +1,18 @@
+body {
+  background: #ff9f43;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+.lyric {
+  padding: 30px;
+  width: 300px;
+  margin: 0 auto;
+  background: #ffda79;
+}
