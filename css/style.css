@@ -9,3 +9,10 @@ header {
 h1 {
   text-transform: uppercase;
 }
+
+.lyric {
+  padding: 30px;
+  width: 300px;
+  margin: 0 auto;
+  background: #ffda79;
+}
