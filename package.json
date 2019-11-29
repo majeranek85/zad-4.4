@@ -1,0 +1,20 @@
+{
+  "name": "learning-git-2",
+  "version": "1.0.0",
+  "description": "Learning Git and Git Hub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majeranek85/zad-4.4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majeranek85/zad-4.4/issues"
+  },
+  "homepage": "https://github.com/majeranek85/zad-4.4#readme"
+}
